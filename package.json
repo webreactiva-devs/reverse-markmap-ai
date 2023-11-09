@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^1.6.0",
+    "markmap-common": "^0.15.0",
+    "markmap-lib": "^0.15.2",
+    "markmap-toolbar": "^0.15.0",
+    "markmap-view": "^0.15.0",
+    "next": "14.0.1",
+    "openai": "^4.16.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.1"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
