@@ -33,7 +33,6 @@ export default function ImageUploader({
 
   const sendToOpenAI = async () => {
     setLoading(true);
-    const response = await axios.post("/api/openai", { imageData });
 
     try {
       const response = await axios.post("/api/openai", { imageData });
