@@ -1,3 +1,12 @@
+## Te cuento como lo he hecho en YouTube
+
+Aprende GPT-4 Vision para Convertir un Dibujo en Digital | *mucho más fácil de lo que pensaba*
+https://youtu.be/rQXre_OoFOw
+
+![image](https://github.com/webreactiva-devs/reverse-markmap-ai/assets/1122071/c90002cd-4caa-4082-b455-a8ba63394e00)
+
+
+
 ## Empezando
 
 Comprueba tu versión de [Node](https://nodejs.org/), tiene que ser Node.js 18.17 que es la compatible con Next.js
